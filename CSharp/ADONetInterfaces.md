@@ -89,7 +89,10 @@ gebruiken, zou het kunnen dat je ook de TCP-poort in de `ConnectionString` moet 
 2. Probeer de 3 verschillende soorten queries uit met de 3 verschillende `Execute`-
 methods van `MySqlCommand`
 
-3. Naast connected toegang, waarbij er constant verbinding is met de database,
+3. Gebruik `MySqlParameter` om op een SQL-injectie-vrije manier gebruikersinvoer te kunnen
+toevoegen aan queries.
+
+4. (Extra) Naast connected toegang, waarbij er constant verbinding is met de database,
 kan je ook gebruik maken van classes zoals `DataSet`, `DataTable` en `IDataAdapter`
 die het mogelijk maken om met data te werken, zonder dat er verbinding is met de
 database. Het is dan enkel de bedoeling om de data af en toe te **down- of uploaden**.
