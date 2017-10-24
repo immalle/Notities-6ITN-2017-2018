@@ -4,7 +4,8 @@
 
 # ADO.Net
 
-[ADO.Net : een (low-level) framework voor database-toegang in C#](CSharp/ADONetInterfaces.md)
+- [ADO.Net : een (low-level) framework voor database-toegang in C#](CSharp/ADONetInterfaces.md)
+- :earth_africa: https://www.dotnetperls.com/sqlparameter : SQL-injection attacks vermijden
 
 # Dictionaries
 
