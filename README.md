@@ -15,8 +15,8 @@
     - switch/case vermijden
     - mappings maken
     - [Voorbeeld bijhouden van een *program state* en gebruik van Hashmap (Dictionary)](CSharp/Voorbeelden/)
-    - https://github.com/vbrh-immalle/SharpShell/blob/18561c3d105e1adbb3871e346fcde7a6f28f15be/Program.cs#L110
-    - http://stackoverflow.com/questions/2896715/dictionary-with-delegate-or-switch
+    - :earth_europe: https://github.com/vbrh-immalle/SharpShell/blob/18561c3d105e1adbb3871e346fcde7a6f28f15be/Program.cs#L110
+    - :earth_africa: http://stackoverflow.com/questions/2896715/dictionary-with-delegate-or-switch
 
 ## LINQ
 
