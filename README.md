@@ -23,6 +23,7 @@
 - [Extension Methods](CSharp/ExtensionMethods.md)
 - [LINQ introductie](CSharp/LINQIntro.md)
 - [LINQ voorbeelden](CSharp/LINQExamples.md)
+- Uitgebreide voorbeeld (verschil *query syntax* en *fluent syntax*) : :earth_africa: https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/concepts/linq/query-syntax-and-method-syntax-in-linq
 
 Arrow functies / lambda-operator:
 
