@@ -23,7 +23,11 @@
 - [Extension Methods](CSharp/ExtensionMethods.md)
 - [LINQ introductie](CSharp/LINQIntro.md)
 - [LINQ voorbeelden](CSharp/LINQExamples.md)
+
+Arrow functies / lambda-operator:
+
 - :earth_africa: [LINQ `Count` met en zonder lambda expressie](https://dotnetfiddle.net/o5T9Dl)
+- [Geschiedenis functioneel programmeren in C#](CSharp/LambdaOperator.md)
 
 # OOP
 
