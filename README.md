@@ -16,3 +16,10 @@
     - mappings maken
     - https://github.com/vbrh-immalle/SharpShell/blob/18561c3d105e1adbb3871e346fcde7a6f28f15be/Program.cs#L110
     - http://stackoverflow.com/questions/2896715/dictionary-with-delegate-or-switch
+
+## LINQ
+
+- [Extension Methods](CSharp/ExtensionMethods.md)
+- [LINQ introductie](CSharp/LINQIntro.md)
+- [LINQ voorbeelden](CSharp/LINQExamples.md)
+- :earth_africa: [LINQ `Count` met en zonder lambda expressie](https://dotnetfiddle.net/o5T9Dl)
