@@ -33,6 +33,10 @@ Arrow functies / lambda-operator:
 
 - [Interface : introductie](CSharp/InterfacesIntro.md)
 
+Toepassingen:
+
+- `IDisposable`-interface en `using` : :earth_africa: https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/keywords/using-statement
+
 # Powershell
 
 - :earth_asia: https://github.com/immalle/Cursus-5ITN-2016-2017#powershell
