@@ -23,3 +23,7 @@
 - [LINQ introductie](CSharp/LINQIntro.md)
 - [LINQ voorbeelden](CSharp/LINQExamples.md)
 - :earth_africa: [LINQ `Count` met en zonder lambda expressie](https://dotnetfiddle.net/o5T9Dl)
+
+## OOP
+
+- [Interface : introductie](CSharp/InterfacesIntro.md)
