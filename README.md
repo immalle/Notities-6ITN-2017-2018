@@ -30,3 +30,6 @@
 - [Interface : introductie](CSharp/InterfacesIntro.md)
 
 # Powershell
+
+- :earth_asia: https://github.com/immalle/Cursus-5ITN-2016-2017#powershell
+- commando's i.v.m. netwerken
