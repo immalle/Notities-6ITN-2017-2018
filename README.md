@@ -28,7 +28,7 @@
 Arrow functies / lambda-operator:
 
 - :earth_africa: [LINQ `Count` met en zonder lambda expressie](https://dotnetfiddle.net/o5T9Dl)
-- [Geschiedenis functioneel programmeren in C#](CSharp/LambdaOperator.md)
+- [Geschiedenis functioneel programmeren in C#](CSharp/LambdaOperatorGeschiedenis.md)
 
 # OOP
 
