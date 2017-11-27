@@ -102,6 +102,7 @@ Dictionaries zijn dan ook sneller dan Lists om in te zoeken maar trager om eleme
 
 # Voorbeelden
 
+- https://dotnetfiddle.net/ir9NrH : woordenboek, mapping tussen enum en bestandsnamen
 - https://dotnetfiddle.net/TEWeEX : woorden tellen 1 (met meerdere split-chars)
 - https://dotnetfiddle.net/5Ktqsg : woorden tellen 2 (in aparte method)
 
